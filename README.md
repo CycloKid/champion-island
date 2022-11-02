@@ -6,4 +6,4 @@ This repository contains all the (publicly available) code and assets for that d
 
 All content in this repo is owned and copyrighted by [Google LLC](https://google.com) and/or [STUDIO4°C](http://www.studio4c.co.jp/) (the creators of the game). Please respect their ownership.
 
-The game can be played here: https://blog.pother.ca/Google-Doodle-Champion-Island/
+The game can be played here: https://cyclokid.github.io/champion-island/
